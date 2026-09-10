@@ -1,0 +1,10 @@
+# robots.txt for https://nadisehat.my.id/
+User-agent: *
+Allow: /
+
+# Disallow sensitive or private paths (if any in future)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap Location
+Sitemap: https://nadisehat.my.id/sitemap.xml
